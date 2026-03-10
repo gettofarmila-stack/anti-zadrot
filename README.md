@@ -1,3 +1,3 @@
 # anti-zadrot
 Скрипт поможет делать перерывы, в переменную minutes мы ставим значение в минутах, после которого нам будет вылазить фото. Фото можно задать любое, достаточно указать до него путь там где это указано. Допустим у меня стоит такое фото
-https://github.com/gettofarmila-stack/anti-zadrot/blob/main/photo.png?raw=true
+![image](https://github.com/gettofarmila-stack/anti-zadrot/blob/main/photo.png?raw=true)
